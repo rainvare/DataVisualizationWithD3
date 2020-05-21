@@ -13,6 +13,8 @@
       <li> Diagrama de dispersión </li>
       <li>domain() y range()</li>
       <li>min() y max ()  - scales - scaleLinear() </li>
+      <li> Escala preedefinida</li>
+      <li> Axes X y Y</li>
       </ul>
     </div>
       </body>
