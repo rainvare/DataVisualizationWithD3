@@ -17,6 +17,14 @@
       <li> Axes X y Y</li>
       </ul>
     </div>
+ <br>
+     <h1> JSON y AJAX </h1>
+ <br>
+      <div>
+        <ul>
+          <li> controlador Onclick </li>
+        </ul>
+    </div>
       </body>
   </html>
        
