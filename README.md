@@ -11,6 +11,8 @@
       <li> cambiar el style segun el tipo de dato con if-else</li>
       <li> Diagramas de barras. Labels y shapes. presentacion en ejes x & y</li>
       <li> Diagrama de dispersión </li>
+      <li>domain() y range()</li>
+      <li>min() y max ()  - scales - scaleLinear() </li>
       </ul>
     </div>
       </body>
