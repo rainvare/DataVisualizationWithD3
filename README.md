@@ -23,6 +23,9 @@
       <div>
         <ul>
           <li> controlador Onclick </li>
+          <li> XML HTTP REQUEST para solicitar datos</li>
+          <li> metodo fetch() para solicitar datos</li>
+          <li> acceder a data con notacion de corchetes</li>
         </ul>
     </div>
       </body>
