@@ -26,6 +26,7 @@
           <li> XML HTTP REQUEST para solicitar datos</li>
           <li> metodo fetch() para solicitar datos</li>
           <li> acceder a data con notacion de corchetes</li>
+          <li> metodo forEach() </li>
         </ul>
     </div>
       </body>
