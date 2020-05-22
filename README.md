@@ -29,7 +29,8 @@
           <li> metodo forEach() </li>
           <li> renderizar imagenes con .imageLink </li>
           <li>filter para filtrar los datos json(en una matriz)</li>
-        </ul> 
+          <li> Geolocalización de usuario con getCurrentPosition </li>
+</ul> 
     </div>
       </body>
   </html>
