@@ -27,8 +27,9 @@
           <li> metodo fetch() para solicitar datos</li>
           <li> acceder a data con notacion de corchetes</li>
           <li> metodo forEach() </li>
-        </ul>
+          <li> renderizar imagenes con .imageLink </li>
+          <li>filter para filtrar los datos json(en una matriz)</li>
+        </ul> 
     </div>
       </body>
   </html>
-       
